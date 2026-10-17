@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "28dd1274fe6fcd4b15905901",
+  "owner": "mqhqfqqxf",
+  "repo": "page-1f6b3d221a3d382b2de18b4e",
+  "title": "闪电熊",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1f6b3d221a3d382b2de18b4e",
+      "a": "闪电熊",
+      "b": "",
+      "entity": "闪电熊",
+      "brand": "闪电熊",
+      "separator": "",
+      "path": "index.html",
+      "hash": "4bac1948a979705040318a035769bb0a214172abd4cae70f848a2ce9b712f452",
+      "content": {
+        "keyword1": "闪电熊",
+        "keyword2": "",
+        "primary_entity": "闪电熊",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "闪电熊提供面向个人与团队的网络加速订阅服务,覆盖基础、旗舰与团队三档套餐,支持多设备并行,适配流媒体与游戏场景。",
+          "AI_DESCRIPTION": "闪电熊提供面向个人与团队的网络加速订阅服务,覆盖基础、旗舰与团队三档套餐,支持多设备并行,适配流媒体与游戏场景。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {font-family: -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif;background: #0a0a0a;color: #e8e8e8;line-height: 1.7;font-size: 15px}\na {color: inherit;text-decoration: none}\n.wrap {max-width: 1280px;margin: 0 auto;padding: 0 32px}\n@media (max-width: 720px) { .wrap {padding: 0 20px} }\n\n/* 首屏：窄栏居左 + 大面积留白 */\n.hero {min-height: 100vh;display: flex;flex-direction: column;justify-content: center;padding: 80px 0 60px;position: relative}\n.hero .anchor-bar {display: flex;flex-wrap: wrap;gap: 10px;margin-bottom: 56px}\n.hero .anchor-bar a {padding: 7px 16px;border: 1px solid #1f3320;border-radius: 999px;font-size: 13px;color: #b6e0b3;letter-spacing: 0.5px;transition: all 0.2s}\n.hero .anchor-bar a:hover {background: #b6ff5c;color: #0a0a0a;border-color: #b6ff5c}\n.hero .narrow {max-width: 460px}\n.hero h1 {font-size: 68px;line-height: 1.05;letter-spacing: -2px;color: #ffffff;font-weight: 800;margin-bottom: 22px}\n.hero h1 span {color: #b6ff5c}\n.hero .lead {font-size: 18px;color: #a8a8a8;margin-bottom: 36px}\n.hero .meta {display: flex;gap: 32px;font-size: 13px;color: #6e6e6e;border-top: 1px solid #1a1a1a;padding-top: 28px}\n.hero .meta div span {display: block;color: #b6ff5c;font-size: 22px;font-weight: 700;margin-bottom: 4px}\n@media (max-width: 720px) { .hero h1 {font-size: 44px;letter-spacing: -1px} .hero .meta {flex-direction: column;gap: 18px} }\n\nmain section {padding: 80px 0;border-top: 1px solid #151515}\nh2 {font-size: 36px;letter-spacing: -1px;margin-bottom: 14px;color: #fff;font-weight: 700}\nh2 .dot {color: #b6ff5c}\n.section-sub {color: #888;font-size: 15px;margin-bottom: 48px;max-width: 580px}\nh3 {font-size: 20px;color: #fff;margin-bottom: 14px;font-weight: 600}\n\n/* 卡片：大圆角软阴影 */\n.card {background: #141414;border-radius: 22px;padding: 32px;box-shadow: 0 18px 50px rgba(0,0,0,0.5);border: 1px solid #1d1d1d;transition: transform 0.2s}\n.card:hover {transform: translateY(-3px)}\n\n/* 套餐对比表 */\n.plans-table {width: 100%;border-collapse: separate;border-spacing: 0;background: #111;border-radius: 22px;overflow: hidden;box-shadow: 0 24px 60px rgba(0,0,0,0.6)}\n.plans-table th, .plans-table td {padding: 22px 24px;text-align: left;border-bottom: 1px solid #1f1f1f;vertical-align: top}\n.plans-table thead th {background: #0d0d0d;color: #b6ff5c;font-weight: 600;font-size: 14px;letter-spacing: 1px;text-transform: uppercase}\n.plans-table thead th.featured-col {background: #b6ff5c;color: #0a0a0a}\n.plans-table .plan-name {font-size: 22px;color: #fff;font-weight: 700;margin-bottom: 6px}\n.plans-table .plan-price {color: #b6ff5c;font-size: 26px;font-weight: 700}\n.plans-table .plan-price small {color: #777;font-size: 13px;font-weight: 400;display: block;margin-top: 4px}\n.plans-table ul {list-style: none}\n.plans-table ul li {padding: 4px 0;color: #c8c8c8;font-size: 14px;position: relative;padding-left: 18px}\n.plans-table ul li::before {content: \"▸\";position: absolute;left: 0;color: #b6ff5c}\n.plans-table .featured-cell {background: #0f1a0c}\n.plans-table tfoot td {background: #0d0d0d;color: #888;font-size: 13px}\n.plans-table tr:last-child td {border-bottom: none}\n@media (max-width: 860px) { .plans-table {display: block;overflow-x: auto;white-space: nowrap} }\n\n/* 设备支持 */\n.devices {display: grid;grid-template-columns: repeat(4, 1fr);gap: 18px}\n.devices .card {padding: 26px 22px}\n.devices .card .ico {width: 44px;height: 44px;border-radius: 12px;background: #0f1a0c;color: #b6ff5c;display: flex;align-items: center;justify-content: center;font-size: 20px;margin-bottom: 16px;font-weight: 700}\n@media (max-width: 860px) { .devices {grid-template-columns: repeat(2, 1fr)} }\n\n/* 使用步骤 */\n.steps {display: grid;grid-template-columns: repeat(3, 1fr);gap: 20px}\n.steps .step {background: #111;border-radius: 18px;padding: 28px;border: 1px solid #1a1a1a}\n.steps .step .num {font-size: 42px;color: #b6ff5c;font-weight: 800;line-height: 1;margin-bottom: 18px;letter-spacing: -2px}\n@media (max-width: 720px) { .steps {grid-template-columns: 1fr} }\n\n/* 服务特性 */\n.features-grid {display: grid;grid-template-columns: repeat(2, 1fr);gap: 20px}\n.feature-item {padding: 26px;border-left: 3px solid #b6ff5c;background: #101010;border-radius: 0 16px 16px 0}\n.feature-item h3 {font-size: 16px;margin-bottom: 8px}\n.feature-item p {color: #999;font-size: 14px}\n@media (max-width: 720px) { .features-grid {grid-template-columns: 1fr} }\n\n/* FAQ 双栏问答 */\n.faq-grid {display: grid;grid-template-columns: 1fr 1fr;gap: 24px 40px}\n.faq-item {border-bottom: 1px solid #1a1a1a;padding-bottom: 18px}\n.faq-q {color: #fff;font-weight: 600;font-size: 16px;margin-bottom: 10px;display: flex;gap: 12px}\n.faq-q::before {content: \"Q\";color: #b6ff5c;font-family: monospace;font-weight: 700}\n.faq-a {color: #b0b0b0;font-size: 14px;padding-left: 26px;position: relative}\n.faq-a::before {content: \"A\";position: absolute;left: 0;color: #555;font-family: monospace;font-weight: 700}\n@media (max-width: 720px) { .faq-grid {grid-template-columns: 1fr;gap: 20px} }\n\n/* 页脚 */\nfooter {border-top: 1px solid #151515;padding: 48px 0 60px;color: #555;font-size: 13px}\nfooter .ftop {display: flex;justify-content: space-between;align-items: flex-start;flex-wrap: wrap;gap: 20px;margin-bottom: 24px}\nfooter .brand-mark {font-size: 20px;color: #fff;font-weight: 800;letter-spacing: -1px}\nfooter .brand-mark span {color: #b6ff5c}\nfooter .links {display: flex;gap: 22px}\nfooter .links a:hover {color: #b6ff5c}\n</style><div class=\"wrap\">\n\n<header class=\"hero\">\n<nav class=\"anchor-bar\">\n<a href=\"#plans\">套餐价格</a>\n<a href=\"#howto\">上手指南</a>\n<a href=\"#features\">服务特性</a>\n<a href=\"#devices\">支持设备</a>\n<a href=\"#faq\">常见问题</a>\n</nav>\n<div class=\"narrow\">\n<h1>闪电<span>熊</span></h1>\n<p class=\"lead\">为个人、玩家与小型团队设计的网络加速订阅。三个档位,按需选择,激活即用。</p>\n<div class=\"meta\">\n<div><span>3</span>主要套餐档位</div>\n<div><span>2</span>付费周期可选</div>\n<div><span>7×24</span>工单入口</div>\n</div>\n</div>\n</header>\n\n<main>\n\n<section id=\"plans\">\n<h2>套餐<span class=\"dot\">.</span></h2>\n<p class=\"section-sub\">月付与年付两种周期,所有套餐在购买后即时开通。下表为横向对比,便于选择最适合自己的档位。</p>\n\n<table class=\"plans-table\">\n<thead>\n<tr>\n<th>项目</th>\n<th>基础版</th>\n<th class=\"featured-col\">旗舰版 · 推荐</th>\n<th>团队版</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>\n<div class=\"plan-name\">基础版</div>\n<div class=\"plan-price\">¥15<small>/月</small></div>\n<div class=\"plan-price\">年付 ¥150/年</div>\n</td>\n<td>\n<ul>\n<li>每月 100GB 高速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n</td>\n<td class=\"featured-cell\">\n<ul>\n<li>每月 300GB 高速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7×24 优先工单支持</li>\n</ul>\n</td>\n<td>\n<ul>\n<li>每月 1000GB 高速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td><strong>节点线路</strong></td>\n<td>共享节点池</td>\n<td class=\"featured-cell\">专线 + 优质节点</td>\n<td>独立 VIP 节点</td>\n</tr>\n<tr>\n<td><strong>设备数</strong></td>\n<td>3 台</td>\n<td class=\"featured-cell\">5 台</td>\n<td>20 台</td>\n</tr>\n<tr>\n<td><strong>月流量</strong></td>\n<td>100GB</td>\n<td class=\"featured-cell\">300GB</td>\n<td>1000GB</td>\n</tr>\n<tr>\n<td><strong>工单响应</strong></td>\n<td>工作时段</td>\n<td class=\"featured-cell\">7×24 优先</td>\n<td>专属经理对接</td>\n</tr>\n</tbody>\n<tfoot>\n<tr>\n<td>所有套餐价格均以人民币计费。年付为一次性预付,折算后比月付节省约两个月费用。</td>\n</tr>\n</tfoot>\n</table>\n</section>\n\n<section id=\"howto\">\n<h2>上手指南<span class=\"dot\">.</span></h2>\n<p class=\"section-sub\">注册、下单、导入节点,三步即可完成全部设置。</p>\n<div class=\"steps\">\n<div class=\"step\">\n<div class=\"num\">01</div>\n<h3>注册账户</h3>\n<p>使用邮箱注册闪电熊账户,完成验证即可进入用户中心。账户信息可随时在个人资料中修改。</p>\n</div>\n<div class=\"step\">\n<div class=\"num\">02</div>\n<h3>选择套餐</h3>\n<p>在套餐页选择基础版、旗舰版或团队版,确定月付或年付,完成支付后订阅自动激活。</p>\n</div>\n<div class=\"step\">\n<div class=\"num\">03</div>\n<h3>导入并连接</h3>\n<p>在用户中心复制对应客户端的订阅链接,粘贴到所选设备的客户端中即可建立连接。</p>\n</div>\n</div>\n</section>\n\n<section id=\"features\">\n<h2>服务特性<span class=\"dot\">.</span></h2>\n<p class=\"section-sub\">围绕订阅者日常使用场景设计的功能点。</p>\n<div class=\"features-grid\">\n<div class=\"feature-item\">\n<h3>多设备并行</h3>\n<p>不同套餐对应不同设备并发数,可在电脑、手机、平板及路由器之间同时连接,适合家庭与小团队共用。</p>\n</div>\n<div class=\"feature-item\">\n<h3>流媒体适配</h3>\n<p>节点覆盖常见流媒体平台所需的地址库,旗舰版起支持原生解锁,减少手动切换节点的操作。</p>\n</div>\n<div class=\"feature-item\">\n<h3>游戏加速通道</h3>\n<p>旗舰版内置 IPLC 专线节点,面向主机与端游的联机对战优化,降低延迟波动与丢包率。</p>\n</div>\n<div class=\"feature-item\">\n<h3>流量统计</h3>\n<p>用户中心实时显示当月已用流量与剩余流量,支持按周期切换,便于预估后续用量。</p>\n</div>\n<div class=\"feature-item\">\n<h3>工单与售后</h3>\n<p>基础与团队版在工作时段响应,旗舰版提供 7×24 优先通道,团队版配置专属客户经理。</p>\n</div>\n<div class=\"feature-item\">\n<h3>节点调度</h3>\n<p>客户端内置智能调度,根据延迟与负载自动选择合适节点,也可手动指定区域。</p>\n</div>\n</div>\n</section>\n\n<section id=\"devices\">\n<h2>支持设备<span class=\"dot\">.</span></h2>\n<p class=\"section-sub\">订阅链接兼容主流客户端,可跨平台共用同一账户。</p>\n<div class=\"devices\">\n<div class=\"card\">\n<div class=\"ico\">W</div>\n<h3>Windows</h3>\n<p>覆盖主流桌面客户端,支持订阅链接导入与自动更新节点信息。</p>\n</div>\n<div class=\"card\">\n<div class=\"ico\">M</div>\n<h3>macOS</h3>\n<p>提供对应版本,使用相同账户即可在苹果电脑上登录使用。</p>\n</div>\n<div class=\"card\">\n<div class=\"ico\">i</div>\n<h3>iOS / iPad</h3>\n<p>支持通过标准订阅方式添加节点配置,在设置完成后即可使用。</p>\n</div>\n<div class=\"card\">\n<div class=\"ico\">A</div>\n<h3>Android</h3>\n<p>支持主流安卓客户端,可使用扫码或链接方式快速导入。</p>\n</div>\n</div>\n</section>\n\n<section id=\"faq\">\n<h2>常见问题<span class=\"dot\">.</span></h2>\n<p class=\"section-sub\">订阅与使用过程中常见的问题与简要说明。</p>\n<div class=\"faq-grid\">\n<div class=\"faq-item\">\n<div class=\"faq-q\">三档套餐的主要区别是什么?</div>\n<div class=\"faq-a\">差异体现在月流量上限、同时在线设备数、节点类型与售后响应速度。建议个人轻度使用选择基础版,经常看流媒体或玩游戏可选旗舰版,小型团队与多设备共享则考虑团队版。</div>\n</div>\n<div class=\"faq-item\">\n<div class=\"faq-q\">月付和年付怎么选更划算?</div>\n<div class=\"faq-a\">年付为一年一次性预付,价格相当于十个月的月付。若计划长期使用,年付更划算;若只是短期尝鲜,建议先以月付试用,后续可在用户中心切换周期。</div>\n</div>\n<div class=\"faq-item\">\n<div class=\"faq-q\">订阅链接能在多少个客户端上使用?</div>\n<div class=\"faq-a\">同时在线设备数量取决于所选套餐:基础版 3 台,旗舰版 5 台,团队版 20 台。同一时间超出设备数会被服务端拒绝新的连接请求。</div>\n</div>\n<div class=\"faq-item\">\n<div class=\"faq-q\">套餐内的流量每月会清零吗?</div>\n<div class=\"faq-a\">是的,月付与年付套餐的流量均按自然月计算,每月 1 日 0 点重置。年付用户同样每月重置,建议在月初规划使用量。</div>\n</div>\n<div class=\"faq-item\">\n<div class=\"faq-q\">可以从基础版升级到旗舰版吗?</div>\n<div class=\"faq-a\">可以在任意时间升级。用户中心提供套餐变更入口,差价按剩余天数折算,完成后新套餐权益即时生效。</div>\n</div>\n<div class=\"faq-item\">\n<div class=\"faq-q\">遇到连接问题如何获取帮助?</div>\n<div class=\"faq-a\">可在用户中心提交工单,描述问题与设备类型。基础版在工作时段响应,旗舰版为 7×24 优先处理,团队版则由专属经理跟进。</div>\n</div>\n<div class=\"faq-item\">\n<div class=\"faq-q\">节点数量与地区覆盖如何?</div>\n<div class=\"faq-a\">各套餐均对应一组节点池。基础版走共享节点,旗舰版包含 IPLC 专线,团队版可获得独立 VIP 节点与路由定制。具体地区以客户端中显示列表为准。</div>\n</div>\n<div class=\"faq-item\">\n<div class=\"faq-q\">团队版是否支持多人分开计费?</div>\n<div class=\"faq-a\">团队版按单一账户绑定使用,支持最多 20 台设备并行。若希望按人拆分账单,需要分别购买多个账户,目前未提供合并开票服务。</div>\n</div>\n</div>\n</section>\n\n</main>\n\n<footer>\n<div class=\"ftop\">\n<div class=\"brand-mark\">闪电<span>熊</span></div>\n<nav class=\"links\">\n<a href=\"#plans\">套餐</a>\n<a href=\"#howto\">指南</a>\n<a href=\"#features\">特性</a>\n<a href=\"#faq\">问题</a>\n</nav>\n</div>\n<p>闪电熊 · 按需选择,按量使用。套餐价格以页面展示为准,具体权益以激活后用户中心配置信息为准。</p>\n</footer>\n\n</div>",
+          "hash": "3cdefd9e96abcd4f9ddb38548c60099d4eff01d557e21b88876e9aa823bb81fb",
+          "seo": {
+            "title": "闪电熊 — 网络加速服务订阅",
+            "keywords": "闪电熊,网络加速,节点订阅,流媒体解锁,游戏加速",
+            "description": "闪电熊提供面向个人与团队的网络加速订阅服务,覆盖基础、旗舰与团队三档套餐,支持多设备并行,适配流媒体与游戏场景。"
+          },
+          "provider": "grok",
+          "model": "MiniMax-M3",
+          "design": {
+            "no": "7790",
+            "hero": "7 窄栏居左配大面积留白",
+            "palette": "1 墨黑配荧光绿",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "iqqgmu.cn",
+    "host": "p-12890c4b98.iqqgmu.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "1de57951d24602c1215dd7a72fe3cd3890c7f6a9d52954ca642fed6675cbb964",
+    "sitemap.xml": "1d36f0e7808e10f8bddaf140203aef7a48b2465216ffcd92f9365b9cafcf6ab6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "50bfe37645ff02dc29393a3eee4ba84d72ff768e7d0774c3445008701e6322e6",
+    "robots.txt": "c15e2aad833afb848e77ff58fff113b261fd129ba28adb342ab5e42870b9e43f",
+    "a876067e31f82be695ff337b9e3bc016.txt": "bd60bdfea24a20711a12873f4d247e7a018f5f5892d9897b59f87d00c4c6fda8"
+  },
+  "revision": "33cb3ce33d378f6c5a2d940f113c4837ddd9491acfc412a1bdfae8174441433f"
+}
